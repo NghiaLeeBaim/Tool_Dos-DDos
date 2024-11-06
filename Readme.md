@@ -16,6 +16,6 @@ Sử dụng các câu lệnh như ping hoặc nmap để tấn công Dos/DDos c�
 - Có thể phát triển thêm nhiều tính năng
 - Đa ứng dụng không chỉ Dos hay DDos
 2. Nhược điểm:
-- phụ thuộc vào cấu hình máy 
+- phụ thuộc vào cấu hình máy đặc biệt là CPU (nếu thực thi nhiều câu lệnh cùng lúc có thể bị overload CPU)
 - Nếu dùng tấn công thì phải dùng thêm proxy
 - Am hiểu các câu lệnh 
