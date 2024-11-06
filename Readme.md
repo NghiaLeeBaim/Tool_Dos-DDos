@@ -1,7 +1,6 @@
 ### Ý Tưởng ###
-Sử dụng các câu lệnh như ping hoặc nmap để tấn công Dos/DDos các trang website
-Chỉ sử dụng các câu lệnh không cài đặt thêm bất cứ gì khác
-=> Script chỉ thực hiện tự động các câu lệnh code 1 cách tự dộng
+Sử dụng các câu lệnh như ping hoặc nmap để tấn công Dos/DDos các trang website. Chỉ sử dụng các câu lệnh không cài đặt thêm bất cứ gì khác
+=> Script chỉ thực hiện các lệnh 1 cách tự dộng
 
 ### Mục tiêu học hỏi, chia sẻ kiến thức ###
 
